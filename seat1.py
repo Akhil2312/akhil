@@ -1,4 +1,5 @@
-
+#seating arrangemnet in  hackerearth!!:)
+#happy coding!!
 t=int(input())
 a=[]
 rem=0
